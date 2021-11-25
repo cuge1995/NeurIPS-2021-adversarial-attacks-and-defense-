@@ -18,6 +18,7 @@ NeurIPS 2021 papers and code focus on adversarial attacks and defense
 * [Finding Optimal Tangent Points for Reducing Distortions of Hard-label Attacks](https://openreview.net/forum?id=g0wang64Zjd)
 
 * [On Success and Simplicity: A Second Look at Transferable Targeted Attacks](https://openreview.net/forum?id=aHK-onEhYRg)
+  * [code](https://github.com/ZhengyuZhao/Targeted-Tansfer) 
 
 * [Adversarial Attacks on Black Box Video Classifiers: Leveraging the Power of Geometric Transformations](https://openreview.net/forum?id=-7EhrbfbK31)
 
